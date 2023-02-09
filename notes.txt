@@ -1,0 +1,34 @@
+_____ is the three-dimensional diffraction image of the point source: airy disk
+
+_____ is determined by the refractive index _____ of
+the medium filling the space between the sample and the lens
+and the _____ of light θ (a): numerical aperture, n, half collection angle
+
+numerical aperture formula: N_A = n sin(theta)
+
+The _____ is the basic unit of life: cell
+
+All _____ are composed of _____: organisms, cells
+
+All cells arise from _____: pre-existing cells
+
+The ratio of the speed of light in vacuum to the
+speed of light in a material is called _____: index of refraction
+
+_____ – spot where waves converge: focal point
+
+_____ - extent to which the object being viewed appears enlarged: magnification
+
+_____ - the ability of an imaging system to resolve detail in the 
+object that is being imaged: optical resolution
+
+The resolution of a system is based on the _____ distance
+at which the points are _____. The distance where this limit 
+is reached is known as the _____ of the microscope and is 
+denoted as _____: minimum, distinguishable, effective resolution, d_0
+
+The resolution limit formula is _____: D = 0.61 lambda / N_A
+
+In 1839, Schwann postulated the _____
+1. All organisms consist of one or more _____
+2. The cell is the basic unit of structure for _____: cell theory, cells, all organisms

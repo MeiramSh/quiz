@@ -1,0 +1,32 @@
+Terms
+
+resolution
+numerical aperture
+airy disk
+index of refraction
+focal point
+magnification
+
+
+
+
+Definitions
+
+The light originating from a fluorescent point source (object) travels though
+the optics of the microscope, including the objective lens and it is 
+diffracted. What is the image of the point source at the focal plane
+
+
+Three tenets of the cell theory: 
+1. The cell is the basic unit of life
+2. All organisms are composed of cells
+3. All cells arise from pre-existing cells
+
+
+Airy disk is the three-dimensional diffraction image of the point source.
+
+Numerical Aperture is determined by the refractive index n of
+the medium filling the space between the sample and the lens
+and the half collection angle of light θ (a)
+NA = n sin(θ)
+
